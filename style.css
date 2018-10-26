@@ -1,0 +1,44 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    color: black;
+
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+h1 {
+    color: black;
+}
